@@ -35,7 +35,7 @@ function App() {
         <div style={{ display: "flex" }} >
           <User users={users} handlePerson={handlePerson}></User>
           <UserSummary cart={cart}></UserSummary>
-      </div>
+        </div>
     </div>
   );
 }
