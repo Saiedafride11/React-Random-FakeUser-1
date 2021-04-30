@@ -1,0 +1,25 @@
+.summeryContainer{
+    width:20%;
+    padding:50px;
+}
+.summeryContainer h1{
+    margin-bottom: 10px;
+}
+.addUser{
+    padding:20px;
+    background-color:#3578E5;
+    margin: 10px;
+    border-radius: 10px;
+    transition:.2s;
+    color: white;
+}
+.addUser p{
+    font-size:16px;
+    font-weight: 500;
+    color: white;
+}
+.addUser:hover{
+    box-shadow: 5px 14px 20px -9px rgba(0,0,0,1);
+    color:white;
+    transition:.2s;
+}

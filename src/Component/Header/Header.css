@@ -1,0 +1,23 @@
+*{
+    margin:0px;padding:0px;
+}
+.logo{
+    background-color:blue;
+    text-align:left;
+}
+.navbar {
+    background-color:#3578E5;
+    padding:20px 100px;
+}
+.nav{
+    float: right;
+}
+.navbar  a{
+    background-color:#3578E5;
+    color: white;
+    text-decoration: none;
+    padding:0px 20px;
+}
+.navbar  a:hover{
+    color:#dddd;
+}

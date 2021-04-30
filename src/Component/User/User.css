@@ -1,0 +1,39 @@
+*{
+    text-transform: capitalize;
+}
+.userContainer {
+    background-color: #dddd;
+    padding:70px;
+    width: 55%;
+}
+.userWrappers{
+    margin:0px;
+    background-color: #fff;
+    padding:20px;
+}
+.headerDetails{
+    padding:20px;
+    border-bottom: 1px solid #dddd;
+}
+.bodyDetails{
+    padding:20px;
+    display:flex;
+    border-bottom: 1px solid #dddd;
+}
+
+.usersImg img {
+    padding:10px;
+}
+.usersInfo{
+    padding:10px;
+}
+.usersInfo button {
+    margin-top: 10px;
+    width:200px;
+    padding:7px 10px;
+    background-color: #3578E5;
+    color: white;
+    cursor: pointer;
+    border:none;
+    border-radius: 5px;
+}
